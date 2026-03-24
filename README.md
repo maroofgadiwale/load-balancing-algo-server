@@ -10,6 +10,8 @@
 
 ## 📌 About The Project
 
+Deployed: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://load-balancing-algo-server-8gagqd3dd3ztzbjyyakwbx.streamlit.app/)
+
 This project simulates a **cloud datacenter environment** and compares the performance of **5 load balancing algorithms** under different workload conditions.Tasks (Cloudlets) arrive continuously using a **Poisson process** and are distributed across Virtual Machines (VMs) by each algorithm. Performance metrics like response time, processing time, wait time and VM utilization are collected and visualized for comparison.
 Built entirely in **Python** using **SimPy** for discrete-event simulation and **Streamlit** for the interactive dashboard.
 
