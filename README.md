@@ -4,7 +4,6 @@
 ![SimPy](https://img.shields.io/badge/SimPy-4.1.1-green?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-red?style=flat-square&logo=streamlit)
 ![Plotly](https://img.shields.io/badge/Plotly-Charts-orange?style=flat-square&logo=plotly)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
 ---
 
