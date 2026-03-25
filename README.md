@@ -1,4 +1,4 @@
-# ☁️ Cloud Load Balancing Simulator
+# ☁️ LoadSim: A Smart Load Balancing Simulator
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square&logo=python)
 ![SimPy](https://img.shields.io/badge/SimPy-4.1.1-green?style=flat-square)
