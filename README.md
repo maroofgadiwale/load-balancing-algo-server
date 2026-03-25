@@ -287,12 +287,6 @@ This project uses **Discrete Event Simulation (DES)** via SimPy. Tasks are synth
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 <div align="center">
   <p>⭐ Feel free to use! ⭐</p>
 </div>
